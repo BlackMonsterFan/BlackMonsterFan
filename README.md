@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="images/header5.jpg" 
+    src="header.jpg" 
     width="100%" 
     height="200px" 
     alt="Header Image" 
